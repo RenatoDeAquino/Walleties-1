@@ -1,4 +1,4 @@
-package walleties.app.com.Walleties
+package walleties.app.com
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

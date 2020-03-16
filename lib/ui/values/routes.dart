@@ -1,7 +1,7 @@
-import 'package:walleties/ui/screens/home.dart';
+import 'package:walleties/ui/screens/login.dart';
 
 const HOME_ROUTE = '/home';
 
 var routes = {
-  HOME_ROUTE: (context) => HomeScreen(),
+  HOME_ROUTE: (context) => LoginScreen(),
 };

@@ -1,4 +1,4 @@
-package walleties.app.com.walleties;
+package walleties.app.com;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
